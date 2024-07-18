@@ -4,6 +4,7 @@ const numbersmultipliedbytwo = numbers.map(function(number){
 })
 console.log(numbersmultipliedbytwo);
 
+//////////////
 
 const pessoas = [
     { nome: 'João', sobrenome: 'Silva' },
