@@ -1,0 +1,4 @@
+Assets - todos as ferramentas (imagens, css, javascript) que não representam os arquivos Html
+DOM- Document Object Model (Estrutura dos elementos dentro da janela)
+MDN - MDN WEB DOCS (documentações)
+W3C - (documentações)
