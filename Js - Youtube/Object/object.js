@@ -10,7 +10,7 @@ const pessoadois = {
   nome: "João",
   sobrenome: "Carvalho",
   hobbies: ["Ler", "Jogar bola"],
-}
+};
 
 const variosObjetos = [
   {

@@ -14,3 +14,4 @@ const somaTres = (a,b,c) => {
 }
 
 console.log(somaTres(1,1,1))
+
