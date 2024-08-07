@@ -1,0 +1,15 @@
+javacript é uma liguagem de tipagem dinâmica, ou seja antes de declarar não é preciso declarar o tipo da váriavel apenas com const ou let ou var
+
+
+DADOS PRIMITIVOS
+
+* NUMBERS
+STRINGS
+BOOLEANS
+NULL
+UNDEFINED
+
+
+Interpolação
+
+` EAE ${NOME} tudo joia ? `

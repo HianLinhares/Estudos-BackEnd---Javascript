@@ -1,0 +1,47 @@
+Operadores mais populares do javascript
+
+------------------------------------------
+ATRIBUIÇÃ0
+
+= atribuindo valor
++= mais igual
+*= multiplicação igual
+/= divisão igual
+%= módulo igual (resto da divisão entre dois números)
+------------------------------------------
+
+
+OPERADORES
+
++ adição
+- subtração
+* multiplicação
+** exponencial
+/ divisão
+% módulo
+++ incrementar
+-- decrementar
+------------------------------------------
+
+COMPARAÇÃO
+
+== Igual a
+=== mesmo valor e mesmo tipo (mais seguro)
+!= diferente
+!== valor e tipo e diferente
+> maior que
+< menor que
+>= maior ou igual
+<= menor igual
+------------------------------------------
+
+LÓGICA
+
+&& e lógico
+|| ou lógico
+! não lógico
+------------------------------------------
+
+CONDICIONAL
+
+(CONDITION) ? EXPRESSION1 : EXPRESSION2  if ternário

@@ -1,0 +1,21 @@
+camelCase - variaveis e funcoes de duas palavras aonde a primeira palavra é minuscula e a segunda é maiscula (ex: somaDoisNumeros)
+snake_case - varias e funcoes de duas palavras aonde a conexões entre elas é feita por _ (ex:soma_dois_numeros)
+
+---------------------------------------------------------------------------
+Hoisting - declarar um valor a uma váriavel antes de declara-la
+
+numberOne = 1;
+
+console.log(numberOne + 2)
+
+var numberOne
+
+
+
+
+---------------------------------------------------------------------------
+TIPOS DE VÁRIAVIES
+
+var - escopo global e permite a alteração da atribuição
+let - escopo de bloco e permite a alteração da atribuição
+const - escopo de bloco e não permite a alteração da atribuição

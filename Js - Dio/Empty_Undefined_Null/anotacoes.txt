@@ -1,0 +1,12 @@
+Empty: VALOR VÁZIO
+
+se for declarado uma váriavel nesses seguintes cenários:
+se for um número foi declarado como 0 ( var number  = 0)
+se for uma string foi declarado apenas com "" (var nome = "")
+se for um array apenas colocou [] (var array = [])
+se for um objeto apenas colocou {} (var obj = {})
+
+
+null: DECLARADO MAS O VALOR NÃO EXISTE, NÃO FOI INICIALIZADO
+
+undefined: NEM DECLARADO 
