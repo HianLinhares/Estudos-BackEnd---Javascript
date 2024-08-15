@@ -24,3 +24,16 @@ array.reverse()
 // reverte a ordem do array
 
 console.log(array)
+
+
+
+const nome = () => {
+    return "meu nome é Hian"
+}
+
+
+const meuNome = (nome) => {
+    return nome
+}
+
+console.log(meuNome(nome()));
