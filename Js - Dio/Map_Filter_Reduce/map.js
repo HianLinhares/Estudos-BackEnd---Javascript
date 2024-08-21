@@ -7,7 +7,7 @@ const numeros = [1,2,3,4,5,6,7,8,9,10]
 const teste = numeros.map((item) => item - 10)
 
 
-// FAZ A MESMA COISA 
+// FAZ A MESMA COISA
 const testeDois = (array) => {
     let novoArray = []
     for (let i = 0; i < array.length; i++) {
