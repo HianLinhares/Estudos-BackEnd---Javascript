@@ -1,2 +1,11 @@
-const numeros = [1,2,3,4,5,6,7,8,9,10]
-const nomes = ['Hian', 'Hiuri', 'Fernanda', 'Alexandre']
+const rockets = [
+    {País: "Russia" , ID: 1},
+    {País: "Brasil" , ID: 2},
+    {País: "Argentina" , ID: 3},
+    {País: "Irlanda" , ID: 4}
+]
+
+const totalDeIds = rockets.reduce((prevalor, elemento) => prevalor + elemento.ID, 0)
+
+
+console.log(totalDeIds)
