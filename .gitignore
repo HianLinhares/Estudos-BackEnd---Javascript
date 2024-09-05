@@ -1,1 +1,3 @@
-forms
+forms/
+node_modules/
+package.json/
